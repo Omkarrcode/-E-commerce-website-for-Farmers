@@ -1,0 +1,9 @@
+{
+  "name":"my-package",
+  "script":{
+    "build": "babel" src -d lib",
+    "test": "jest"
+
+  }
+
+}
